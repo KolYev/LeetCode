@@ -1,12 +1,8 @@
 {
-    "code-runner.runInTerminal": true,
-    "code-runner.saveFileBeforeRun": true,
-    "code-runner.executorMap": {
-        "cpp": "cd $dir && g++ -fdiagnostics-color=always -g $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
-    },
     "files.associations": {
         "iostream": "cpp",
         "vector": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "xstring": "cpp"
     }
 }
