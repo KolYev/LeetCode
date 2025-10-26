@@ -40,5 +40,5 @@ public:
 
 int main() {
     Solution solution;
-    solution.convert("PAYPALISHIRING", 4);
+    solution.convert("PAYPALISHIRING", 4); 
 }
